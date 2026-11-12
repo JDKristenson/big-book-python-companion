@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 760" role="img" aria-labelledby="title desc">
+<title id="title">Unofficial book companion: learning and reference map</title>
+<desc id="desc">External book resources lead to local guides and quick references. Practice resources are not included. This is not proof of completed exercises or code lineage.</desc>
+<rect width="1000" height="760" fill="white"/>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#495057"/></marker></defs>
+<text x="36" y="50" font-family="Arial, sans-serif" font-size="30" fill="#343a40">
+<tspan x="36" dy="0">Unofficial book companion</tspan>
+</text>
+<text x="36" y="78" font-family="Arial, sans-serif" font-size="18" fill="#343a40">
+<tspan x="36" dy="0">Learning/reference map | reading order, not code lineage</tspan>
+</text>
+<rect x="36" y="108" width="928" height="136" rx="12" fill="#f8f9fa" stroke="#343a40" stroke-width="2"/>
+<text x="60" y="144" font-family="Arial, sans-serif" font-size="18" fill="#343a40">
+<tspan x="60" dy="0">EXTERNAL BOOK &amp; PROGRAMS</tspan>
+</text>
+<text x="60" y="180" font-family="Arial, sans-serif" font-size="24" fill="#343a40">
+<tspan x="60" dy="0">The Big Book of Small Python Projects</tspan>
+</text>
+<text x="60" y="210" font-family="Arial, sans-serif" font-size="18" fill="#343a40">
+<tspan x="60" dy="0">Al Sweigart | No Starch Press | author&#x27;s book and source collection</tspan>
+</text>
+<line x1="270" y1="248" x2="270" y2="290" stroke="#495057" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="730" y1="248" x2="730" y2="290" stroke="#495057" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="36" y="306" width="448" height="180" rx="12" fill="#f8f9fa" stroke="#343a40" stroke-width="2"/>
+<text x="60" y="340" font-family="Arial, sans-serif" font-size="18" fill="#343a40">
+<tspan x="60" dy="0">LOCAL PROJECT GUIDES</tspan>
+</text>
+<text x="60" y="380" font-family="Arial, sans-serif" font-size="22" fill="#343a40">
+<tspan x="60" dy="0">Overview + Blackjack + Conway</tspan>
+</text>
+<text x="60" y="414" font-family="Arial, sans-serif" font-size="18" fill="#343a40">
+<tspan x="60" dy="0">Walkthroughs and partial snippets</tspan>
+<tspan x="60" dy="22.5">Not the full book program collection</tspan>
+</text>
+<rect x="516" y="306" width="448" height="180" rx="12" fill="#f8f9fa" stroke="#343a40" stroke-width="2"/>
+<text x="540" y="340" font-family="Arial, sans-serif" font-size="18" fill="#343a40">
+<tspan x="540" dy="0">LOCAL QUICK REFERENCES</tspan>
+</text>
+<text x="540" y="380" font-family="Arial, sans-serif" font-size="22" fill="#343a40">
+<tspan x="540" dy="0">Five Markdown topic references</tspan>
+</text>
+<text x="540" y="414" font-family="Arial, sans-serif" font-size="18" fill="#343a40">
+<tspan x="540" dy="0">Grids, games, random, strings, terminal</tspan>
+<tspan x="540" dy="22.5">Study patterns; not tested applications</tspan>
+</text>
+<line x1="270" y1="490" x2="270" y2="534" stroke="#495057" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="730" y1="490" x2="730" y2="534" stroke="#495057" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="36" y="550" width="928" height="116" rx="12" fill="#f8f9fa" stroke="#343a40" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="60" y="583" font-family="Arial, sans-serif" font-size="18" fill="#343a40">
+<tspan x="60" dy="0">PRACTICE RESOURCES: NOT INCLUDED</tspan>
+</text>
+<text x="60" y="619" font-family="Arial, sans-serif" font-size="22" fill="#343a40">
+<tspan x="60" dy="0">project_runner.py | book_resources/ | my_projects/</tspan>
+</text>
+<text x="60" y="650" font-family="Arial, sans-serif" font-size="18" fill="#343a40">
+<tspan x="60" dy="0">Mentioned by guides; no completed personal exercises established here.</tspan>
+</text>
+<text x="36" y="709" font-family="Arial, sans-serif" font-size="18" fill="#343a40">
+<tspan x="36" dy="0">Original guide/snippet authorship and reuse rights unresolved. No blanket license.</tspan>
+</text>
+<text x="36" y="737" font-family="Arial, sans-serif" font-size="16" fill="#343a40">
+<tspan x="36" dy="0">Map and README: Reason AI assistance | Preserve verified upstream and human credits.</tspan>
+</text>
+</svg>
